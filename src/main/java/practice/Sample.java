@@ -4,5 +4,4 @@ public class Sample {
 		System.out.println("Sampleです");
 		System.out.println("Java");
 	}
-
 }
